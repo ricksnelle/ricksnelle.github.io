@@ -1,4 +1,8 @@
-Hello Everybody!\n_________
-123\n
-456
-=)
+please do not write this commands:
+
+!kill
+!gravity 0
+!stop
+!play 142376088
+
+GURU MEDITATION: 7C1AFE4278484250BACA9F8000C3AC3C
